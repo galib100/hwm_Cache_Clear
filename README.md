@@ -1,5 +1,5 @@
 
-# HWM Cache Cleaner - সিস্টেম ক্লিনআপ টুল
+# HWM Cache Cleaner -লিনাক্স সিস্টেম ক্লিনআপ টুল
 
 ## প্রকল্পের সারাংশ
 
@@ -46,7 +46,7 @@ sudo apt install zenity -y
    গিট ব্যবহার করে এই রিপোজিটরিটি ক্লোন করুন:
 
    ```bash
-   git clone https://github.com/galib100/hwm-cache-cleaner.git
+   git clone https://github.com/galib100/hwm_Cache_Clear.git
    ```
 
 2. **স্ক্রিপ্টটি এক্সিকিউটেবল করুন**
@@ -82,7 +82,7 @@ sudo apt install zenity -y
 
 
 
-# HWM Cache Cleaner - System Cleanup Tool
+# HWM Cache Cleaner -Linux System Cleanup Tool
 
 ## Project Overview
 
@@ -129,7 +129,7 @@ sudo apt install zenity -y
    Clone this repository using Git:
 
    ```bash
-   git clone https://github.com/galib100/hwm-cache-cleaner.git
+   git clone https://github.com/galib100/hwm_Cache_Clear.git
    ```
 
 2. **Make the script executable**
